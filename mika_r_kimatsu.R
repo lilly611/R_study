@@ -2,7 +2,7 @@
 ##総合演習課題
 
 ##Q1(データの取り込みとデータの確認)
-#setwd("C:/data/econome3")
+#setwd("C:/data/econome3") これシャープ外すの忘れないで！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
 
 fukuoka_y10_y20<-read.csv("fukuoka_y10_20_v3.csv")
 
